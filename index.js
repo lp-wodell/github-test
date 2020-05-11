@@ -5,3 +5,5 @@ console.log("This line will change in every version", "developreleasetest-releas
 console.log("This replaces every line as part of merge from dev > master");
 
 console.log("Adding this line to dev after release merge");
+
+console.log("minor change to prompt PR");
